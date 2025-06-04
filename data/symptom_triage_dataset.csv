@@ -1,0 +1,31 @@
+symptoms,condition,triage
+"fever, chest pain",Pneumonia,Seek emergency help now
+"high fever, shortness of breath",COVID-19,Visit hospital soon
+"mild headache, sore throat",Common Cold,Stay home and monitor
+"chest pain, dizziness, sweating",Heart Attack,Seek emergency help now
+"abdominal pain, vomiting, fever",Appendicitis,Visit hospital soon
+"runny nose, sneezing",Allergy,Stay home and monitor
+"high fever, cough, fatigue",Flu,Visit hospital soon
+"seizure, confusion, unconsciousness",Epilepsy,Seek emergency help now
+"back pain, frequent urination",Kidney Infection,Visit hospital soon
+"rash, itching, mild fever",Viral Infection,Stay home and monitor
+"severe headache, vision changes",Migraine,Visit hospital soon
+"nausea, chest discomfort",Heart Attack,Seek emergency help now
+"ear pain, mild fever",Ear Infection,Stay home and monitor
+"persistent cough, weight loss",Tuberculosis,Visit hospital soon
+"vomiting blood, severe abdominal pain",Gastrointestinal Bleeding,Seek emergency help now
+"mild fever, fatigue, muscle ache",Dengue (mild),Stay home and monitor
+"stiff neck, high fever, headache",Meningitis,Seek emergency help now
+"shortness of breath, rapid heartbeat",Asthma Attack,Visit hospital soon
+"sore throat, cough, runny nose",Viral Cold,Stay home and monitor
+"joint pain, fatigue, skin rash",Lupus,Visit hospital soon
+"leg swelling, chest pain, coughing blood",Pulmonary Embolism,Seek emergency help now
+"mild fever, diarrhea",Food Poisoning,Stay home and monitor
+"blurred vision, slurred speech, weakness",Stroke,Seek emergency help now
+"high blood sugar, increased thirst",Diabetes,Visit hospital soon
+"mild cough, no fever",Allergic Rhinitis,Stay home and monitor
+"abdominal bloating, pelvic pain",Ovarian Cyst,Visit hospital soon
+"headache, sensitivity to light",Migraine,Stay home and monitor
+"trouble breathing, lips turning blue",Severe Asthma,Seek emergency help now
+"fever, skin rash, joint pain",Zika Virus,Visit hospital soon
+"nosebleed, fatigue, pale skin",Anemia,Visit hospital soon
